@@ -1,0 +1,20 @@
+<Root>
+  <Version>99</Version>
+  <Picture>
+    <Screen1BitLamp1_0>
+      <FrameCount>1</FrameCount>
+    </Screen1BitLamp1_0>
+    <Screen1MyPicture3_0>
+      <FrameCount>1</FrameCount>
+    </Screen1MyPicture3_0>
+    <Screen1MyPicture2_0>
+      <FrameCount>1</FrameCount>
+    </Screen1MyPicture2_0>
+    <Screen1PictureBox1_0>
+      <FrameCount>1</FrameCount>
+    </Screen1PictureBox1_0>
+    <Screen2PictureBox1_0>
+      <FrameCount>1</FrameCount>
+    </Screen2PictureBox1_0>
+  </Picture>
+</Root>
